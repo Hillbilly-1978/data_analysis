@@ -1,4 +1,4 @@
-Stn Id,Stn Name,CIMIS Region,Date,Jul,ETo (in),qc,Precip (in),qc,Sol Rad (Ly/day),qc,Avg Vap Pres (mBars),qc,Max Air Temp (F),qc,Min Air Temp (F),qc,Avg Air Temp (F),qc,Max Rel Hum (%),qc,Min Rel Hum (%),qc,Avg Rel Hum (%),qc,Dew Point (F),qc,Avg Wind Speed (mph),qc,Wind Run (miles),qc,Avg Soil Temp (F),qc
+Stn Id,Stn Name,CIMIS Region,Date,Jul,ETo (in),qc1,Precip (in),qc2,Sol Rad (Ly/day),qc3,Avg Vap Pres (mBars),qc5,Max Air Temp (F),qc6,Min Air Temp (F),qc7,Avg Air Temp (F),qc8,Max Rel Hum (%),qc9,Min Rel Hum (%),qc10,Avg Rel Hum (%),qc11,Dew Point (F),qc12,Avg Wind Speed (mph),qc13,Wind Run (miles),qc14,Avg Soil Temp (F),qc15
 264,Sierra Valley Center,Eastern Sierra Basin & Range,5/5/2025,125,0.23, ,0.00, ,700, ,4.9, ,63.6, ,37.6, ,49.9, ,53, ,27, ,40, ,26.6, ,8.5, ,202.8, ,53.9, 
 264,Sierra Valley Center,Eastern Sierra Basin & Range,5/6/2025,126,0.22, ,0.00, ,696, ,5.8, ,62.7, ,35.1, ,50.2, ,87, ,33, ,47, ,30.5, ,6.7, ,159.9, ,53.9, 
 264,Sierra Valley Center,Eastern Sierra Basin & Range,5/7/2025,127,0.22, ,0.00, ,689, ,7.4, ,70.5, ,30.3, ,52.2, ,99, ,29, ,56, ,36.9, ,4.8, ,114.9, ,53.7, 
